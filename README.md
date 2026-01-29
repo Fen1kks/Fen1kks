@@ -11,5 +11,5 @@ I'm a mechanical engineer with a passion for code, bridging the gap between hard
 ### 📊 My GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-fen1kks.vercel.app/api?username=Fen1kks&show_icons=true&theme=radical&hide_border=true&border_radius=17&count_private=true&v=1" width="40%" alt="Fen1kks's GitHub stats" />
-  <img src="https://github-readme-stats-fen1kks.vercel.app/api/top-langs/?username=Fen1kks&layout=compact&theme=radical&hide_border=true&border_radius=10&count_private=true&v=1" width="30%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fen1kks.vercel.app/api/top-langs/?username=Fen1kks&layout=compact&theme=radical&hide_border=true&border_radius=10&count_private=true&v=1" width="36%" alt="Top Languages" />
 </p>
